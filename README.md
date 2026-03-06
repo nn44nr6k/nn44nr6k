@@ -19,7 +19,7 @@
 
 
 ## 📊 GitHub Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nn44nr6k&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img align="center" style="background-color: black" src="https://github-readme-stats.vercel.app/api?username=nn44nr6k&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
 
 ## 📈 Activity
