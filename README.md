@@ -18,16 +18,18 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Statistics
-<img align="center" style="background-color: black" src="https://github-readme-stats.vercel.app/api?username=nn44nr6k&show_icons=true&theme=default&hide_border=true&count_private=true" />
-
-
 ## 📈 Activity
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nn44nr6k&theme=default&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nn44nr6k&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
 
+## 🏆 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nn44nr6k&theme=tokyo-night&bg_color=000000&color=ffffff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ## 🤝 Connect
-- 📧 Work Email: mop9vvtuka@gmail.com / https://github.com/nn44nr6k
+- 📧 Work Email: mop9vvtuka@gmail.com / ( https://github.com/nn44nr6k )
 - 💼 Professional inquiries welcome
 
----
+
