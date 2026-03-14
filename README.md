@@ -1,4 +1,4 @@
-# Hello, I'm nn44nr6k a developer and learner 👋
+# Hello, I'm nn44nr6k 👋
 
 <img src="https://komarev.com/ghpvc/?username=nn44nr6k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
